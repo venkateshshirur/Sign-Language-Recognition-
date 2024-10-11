@@ -10,5 +10,6 @@ The project explores three different machine learning algorithms:
 —Gradient Boosting
 to compare their accuracy and performance on hand sign image data.
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/f64f04ef-6f7b-4262-944e-f00ed95da488)
+
 
