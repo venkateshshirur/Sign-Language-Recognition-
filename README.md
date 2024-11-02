@@ -10,7 +10,9 @@ The following words can be recognized: Yes, No , Please, Thank You, Hello
 The project explores three different machine learning algorithms:
 
 —Support Vector Machines (SVM)
+
 —Random Forest
+
 —Gradient Boosting
 
 to compare their accuracy and performance on hand sign image data.
